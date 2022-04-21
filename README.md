@@ -1,4 +1,4 @@
-# Zoom-Clone
+# WizzyScene Video Chat Application
 
 ## Table of contents
 * [General Description](#general-info)
