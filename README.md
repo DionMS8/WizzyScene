@@ -7,7 +7,12 @@
 
 
 ## General Description
-This is a Zoom clone built with Node.js.
+
+A video chat application that supports the following features:
+
+- Meeting Rooms with Unique IDs
+- Real-Time Chatting
+- Video Display via Webcam
 
 ## Technologies
 
@@ -17,6 +22,7 @@ This is a Zoom clone built with Node.js.
 - Express.js
 - Socket.io
 - WebRTC
+- Peer.js
 
 
 ## Project Procedure
